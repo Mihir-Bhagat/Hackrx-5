@@ -14,7 +14,7 @@ Handwritten Text Recognition (Level 1): Identifies and extracts medical diagnose
 
 Data Extraction (Level 1): Outputs extracted diagnoses into an Excel sheet with a predefined format.
 
-Post-Extraction Correction (Level 2): Corrects errors in extracted diagnoses to improve accuracy, particularly for ambiguous handwritten text (e.g., "GPLA / 36wks t 4days").
+Post-Extraction Correction (Level 2): Corrects errors in extracted diagnoses to improve accuracy, particularly for ambiguous handwritten text.
 
 **Evaluation Metrics:**
 
